@@ -1,5 +1,5 @@
 # 30DaysOfKCNA Challenge
-Learn and prepare for KCNA exam in 30 days
+Learn and prepare for [KCNA](https://www.cncf.io/certification/kcna/) exam in 30 days
 
 This repository is used to document important concepts required to understand and clear "Kubernetes and Cloud Native Associate (KCNA)" exam.
 
